@@ -2,7 +2,7 @@
 
 # Omics Nexus | Summer School 2026
 
-<img src="assets/logo.png" alt="Omics Nexus" width="150"/>
+<img src="assets/ONXlogo.png" alt="Omics Nexus" width="150"/>
 
 ### From Biological Data to Bioinformatics Mastery
 
