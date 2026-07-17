@@ -5,8 +5,6 @@ Work in your `~/module1` folder. Use the files in `~/module1/data/`. Write each 
 ```bash
 nano ~/module1/class1_answers.txt
 ```
-Solutions are in `solutions.md` — try first, then check.
-
 ---
 
 ## Part A — Navigation & files (warm-up)
