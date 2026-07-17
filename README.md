@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧬 Omics Nexus Summer School 2026
+# Omics Nexus | Summer School 2026
 
 <img src="assets/logo.png" alt="Omics Nexus" width="150"/>
 
